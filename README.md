@@ -24,7 +24,7 @@ This project predicts Apple Inc. (AAPL) stock prices using a Long Short-Term Mem
 
 ---
 
-🔧 Tech Stack
+## 🔧 Tech Stack
 
 * Python
 
@@ -39,3 +39,4 @@ This project predicts Apple Inc. (AAPL) stock prices using a Long Short-Term Mem
 * Scikit-learn
 
 * Matplotlib, Pandas, Numpy
+
