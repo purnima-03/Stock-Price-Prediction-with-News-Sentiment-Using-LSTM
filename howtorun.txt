@@ -1,0 +1,13 @@
+📥 How to Run
+
+Clone the repo:
+
+git clone https://github.com/yourusername/stock-price-prediction-lstm.git
+cd stock-price-prediction-lstm
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the notebook:
+Open stock_price_prediction.ipynb in Jupyter Notebook or Google Colab.
