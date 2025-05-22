@@ -21,3 +21,21 @@ This project predicts Apple Inc. (AAPL) stock prices using a Long Short-Term Mem
 ├── README.md                      # Project documentation
 ├── requirements.txt               # Required Python packages
 ```
+
+---
+
+🔧 Tech Stack
+
+* Python
+
+* yfinance
+
+* BeautifulSoup
+
+* TextBlob
+
+* TensorFlow / Keras
+
+* Scikit-learn
+
+* Matplotlib, Pandas, Numpy
