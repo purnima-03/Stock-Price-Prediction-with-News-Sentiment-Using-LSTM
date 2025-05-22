@@ -2,8 +2,8 @@
 
 Clone the repo:
 
-git clone https://github.com/yourusername/stock-price-prediction-lstm.git
-cd stock-price-prediction-lstm
+git clone https://github.com/purnima-03/Stock-Price-Prediction-with-News-Sentiment-Using-LSTM.git
+cd Stock-Price-Prediction-with-News-Sentiment-Using-LSTM
 
 Install dependencies:
 
