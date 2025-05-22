@@ -1,0 +1,15 @@
+
+---
+
+### `requirements.txt`
+
+```txt
+yfinance
+beautifulsoup4
+requests
+textblob
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
